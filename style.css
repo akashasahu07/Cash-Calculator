@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(150deg, #e0ffff, #ffc0cb);
+    background: linear-gradient(150deg, #a6eaea, #ffc0cb, #9fb404);
     color: #333;
     min-height: 100vh;
     padding: 20px;
@@ -18,7 +18,7 @@ body {
     width: 100%;
     margin: auto;
     padding: 30px 20px;
-    background: linear-gradient(150deg, #3466d1, #ff1493);
+    background: linear-gradient(150deg, #0051ff, #c30068, #333);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
     display: flex;
@@ -136,6 +136,7 @@ button:hover {
     margin-top: 10px;
     font-style: italic;
     color: #fff;
+    font-size: 1.15rem;
 }
 
 /* ------------------------------
@@ -152,7 +153,7 @@ button:hover {
     }
 
     button {
-        width: 100%;
+        width: 40%;
     }
 
     .cash-text {
